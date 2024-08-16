@@ -5,4 +5,5 @@ draft: false
 tags:
   - 
 ---
-This is new content
+This is new content made for deploying
+Fridays
