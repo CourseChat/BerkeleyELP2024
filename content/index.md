@@ -5,7 +5,8 @@ title: Welcome to  Beahrs Environmental Leaders Program 2024
 - This site will be expanded over the next few weeks to include materials from the past twenty-three years of environmental leaders meeting on the UC Berkeley campus.
 ## YouTube channel for the 2024 classes
 ### https://www.youtube.com/@BerkeleyBeahrsELP2024
-- Here is the listing of all 2024 sessions. [The complete list of classes, showing the few that have videos](obsidian://open?vault=BerkeleyELP2024&file=content%2FYears%2F2024)
+- Here is the listing of all 2024 sessions, showing which have videos and transcripts.
+- [[2024#Table of Lectures|The complete list of 2024 classes]]
 - For those classes with videos, the transcription was created with Whisper--and the YouTube video may be viewed with closed captioning in Arabic, Bangla, French, Swahili, Portuguese, Indonesian Bahasa, Javanese, Oromo, Tigrinya, and 160 other languages.  
 - Simply click on the YouTube buttons at the bottom of the video: click on CC, to turn on closed captioning, then click on the Gear wheel, go to "Subtitles", click on "Subtitles/CC", then choose " AutoTranslate",  and chose from 160 languages.
 ## Beahrs ELP materials on-line over the past 21 years
