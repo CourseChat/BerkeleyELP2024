@@ -1,5 +1,6 @@
 # Spend an hour reviewing foundational computing skills with Pythia
 ## Read about the new scientific standard 
+- [Our overall approach to build your computing toolkit](https://foundations.projectpythia.org/preamble/how-to-use.html)
 - [Project Pythia: how to use computing in the geosciences](https://foundations.projectpythia.org/landing-page.html)
 - [Getting started with Jupyter Notebooks](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html)
 - [Getting started with Github](https://foundations.projectpythia.org/foundations/getting-started-github.html)
