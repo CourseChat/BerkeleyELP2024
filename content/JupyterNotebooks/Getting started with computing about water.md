@@ -9,3 +9,12 @@
 ## Find specific examples of solutions explored in Jupyter notebooks
 - Physics of water
 - Water potentials
+- [Earthlab](https://github.com/earthlab/earthlab.github.io)
+- [Earthlab](https://www.earthdatascience.org/)
+- Groundwater flow
+	- [HydroTeaching](https://github.com/ThoReimann/HydroTeaching/blob/master/BHYWI04/BHYWI04_1D_AD_Transport.ipynb)
+	- [Hydrology Online](https://github.com/rossyndicate/Hydrology-Online/tree/master)
+	- [Hydrolearn](https://www.hydrolearn.org/)
+	- [Python essentials for water resources engineers](https://www.hydromohsen.com/pywre)
+	- https://www.hydromohsen.com/pywre
+	- 
