@@ -3,6 +3,9 @@ title: Welcome to  Beahrs Environmental Leaders Program 2024
 ---
 # Beahrs Berkeley Environmental Leaders Program
 - This site will be expanded over the next few weeks to include materials from the past twenty-three years of environmental leaders meeting on the UC Berkeley campus.
+- The goal is to provide easy and open access to all materials presented during your stay in Berkeley. As new tools of transcription and translation become available, you may use these materials in your projects and with your colleagues to extend our common knowledge.
+- New computational tools such as Jupyter Notebooks to accompany lectures will be added over time.
+- New AI tools, including chat interfaces to readings and lectures will extend the power and accessibility of Beahrs Environmental Leaders materials.
 ## YouTube channel for the 2024 classes
 
 >[!Note] Monday, August 26, 2024 
@@ -10,6 +13,11 @@ title: Welcome to  Beahrs Environmental Leaders Program 2024
 > standard UC Berkeley review. For the moment, access is restricted to specific
 > reviewers for the Beahrs ELP program. 
 ### https://www.youtube.com/@BerkeleyBeahrsELP2024
+
+---
+- Expert Water Panel
+
+![https://youtu.be/vNbi6xvjb4Y]
 
 > [!info]- Here is the listing of all 2024 sessions, showing which have videos and transcripts.
 >  ![[2024#Table of Lectures|The complete list of 2024 classes]]
