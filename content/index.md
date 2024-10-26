@@ -2,10 +2,13 @@
 title: Welcome to  Beahrs Environmental Leaders Program 2024
 ---
 # Beahrs Berkeley Environmental Leaders Program
-- This site will be expanded over the next few weeks to include materials from the past twenty-three years of environmental leaders meeting on the UC Berkeley campus.
-- The goal is to provide easy and open access to all materials presented during your stay in Berkeley. As new tools of transcription and translation become available, you may use these materials in your projects and with your colleagues to extend our common knowledge.
+- This site will be expanded over the next few months to include materials from the past twenty-three years of Beahrs Environmental Leaders meetings on the UC Berkeley campus.
+
+  - Here is a [[Table of Years]] that links to videos and lectures for each year since 2001, when available.
+- Our goal is to provide easy and open access to all materials presented during your stay in Berkeley.  you may use these materials in your projects and with your colleagues to extend our common knowledge.
+- As new tools of transcription and translation become available, you will find it easy to subtitle the videos in any language you choose. For 2024, Arabic, Chinese, and Bangla transcriptions are already done.
 - New computational tools such as Jupyter Notebooks to accompany lectures will be added over time.
-- New AI tools, including chat interfaces to readings and lectures will extend the power and accessibility of Beahrs Environmental Leaders materials.
+- New AI tools, including chat interfaces to readings and lectures,  will extend the power and accessibility of Beahrs Environmental Leaders materials.
 ## YouTube channel for the 2024 classes
 
 >[!Note] Monday, August 26, 2024 
@@ -17,7 +20,12 @@ title: Welcome to  Beahrs Environmental Leaders Program 2024
 ---
 - Expert Water Panel
 
-![https://youtu.be/vNbi6xvjb4Y]
+![https://youtu.be/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1]
+
+
+https://youtu.be/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > [!info]- Here is the listing of all 2024 sessions, showing which have videos and transcripts.
 >  ![[2024#Table of Lectures|The complete list of 2024 classes]]
