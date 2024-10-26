@@ -18,10 +18,7 @@ title: Welcome to  Beahrs Environmental Leaders Program 2024
 ### https://www.youtube.com/@BerkeleyBeahrsELP2024
 
 ---
-- Expert Water Panel
-
-![https://youtu.be/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1]
-
+- [Expert Water Panel on Water and Climate Change](https://youtu.be/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1)
 
 https://youtu.be/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1
 
