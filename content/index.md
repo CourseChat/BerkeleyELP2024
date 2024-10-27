@@ -24,6 +24,13 @@ https://youtu.be/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNbi6xvjb4Y?si=T1uR8VZB00GJBTu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvH-acPMBEg?si=4QbSbSP2HthjtVOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+We are building a Jupyter notebook to accompany Prof. Baldocchi's physics and chemistry discussion
+
+---
+
+
 > [!info]- Here is the listing of all 2024 sessions, showing which have videos and transcripts.
 >  ![[2024#Table of Lectures|The complete list of 2024 classes]]
 
